@@ -28,6 +28,8 @@ As defined by the Berne Convention, the moral rights of an author are as follows
 
 3) The right to object to any derogatory action that may damage the authors honor or reputation
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 #### Cosa è il Copyright? 
  Il copyright è il diritto che sorge in capo all'autore di un'opera dell'ingegno. Questo diritto in realtà include tanti diritti diversi, che assicurano che sia solo l'autore l'unica persona che può legittimamente, ad esempio, pubblicare la sua opera, riprodurla, modificarla, adattarla in altri formati, sfruttarla economicamente e molte altre cose ancora. 
 Quindi, puoi pensare al copyright come ad una specie di diritto di esclusiva, o, addirittura, ad un vero e proprio monopolio legale che l'autore vanta sulla propria opera dell'ingegno. 
@@ -48,6 +50,7 @@ Il copryright quindi non è a pagamento, ma ovviamente l'autore può decidere co
 
 
 ###### Diritti Morali 
+
 I diritti morali sono una serie di diritti che sono separati dal diritto d'autore dell'autore su un pezzo. Questi diritti sono generalmente considerati inalienabili, il che significa che essi non possono essere ceduti o venduti, e quindi persistono anche se il copyright di un'opera è completamente venduta.
 
 Come definito dalla Convenzione di Berna, i diritti morali d'autore sono i seguenti:
